@@ -10,7 +10,7 @@ This dashboard provides comprehensive financial reporting and key performance in
 ![image](https://github.com/user-attachments/assets/08c5fa19-6ed3-44a9-8aa6-734d8df7da15)
 
 ## Page 2: Balance Sheet
-![image](https://github.com/user-attachments/assets/dc06cb3e-ae27-4268-90c3-85492f6800cd)
+![image](https://github.com/user-attachments/assets/4495ee17-ff0f-4c86-af21-515e27cf11ef)
 
 ## Page 3: Cash Flow Statement
 ![image](https://github.com/user-attachments/assets/7cce3177-494b-499f-b016-4bf07d8e84fc)
