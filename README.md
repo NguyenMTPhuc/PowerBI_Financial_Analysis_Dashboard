@@ -7,7 +7,7 @@ This dashboard provides comprehensive financial reporting and key performance in
 - Track key financial ratios and metrics, such as profitability, liquidity, and leverage, to evaluate a company's financial health.
 
 ## Page 1: Income Statement
-![image](https://github.com/user-attachments/assets/f7243a4a-8a89-423a-8f4e-74461536db17)
+![image](https://github.com/user-attachments/assets/08c5fa19-6ed3-44a9-8aa6-734d8df7da15)
 
 ## Page 2: Balance Sheet
 ![image](https://github.com/user-attachments/assets/dc06cb3e-ae27-4268-90c3-85492f6800cd)
